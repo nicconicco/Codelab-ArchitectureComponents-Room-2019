@@ -1,0 +1,20 @@
+
+Isquid:IndentationCheck"!Make this line start at column 3.(ƒæ‡18¯àë¼…-
+Osquid:IndentationCheck"!Make this line start at column 5.(ÅáÎ™üÿÿÿÿ8¯àë¼…-
+Osquid:IndentationCheck"!Make this line start at column 5.(ÅÒ—éÿÿÿÿÿ8¯àë¼…-
+Osquid:IndentationCheck"!Make this line start at column 5.(ˆŞ„Ğüÿÿÿÿ8¯àë¼…-
+Osquid:IndentationCheck"!Make this line start at column 3.(ˆ‰ºòùÿÿÿÿ8¯àë¼…-
+Osquid:IndentationCheck"!Make this line start at column 5.(·¾Ùîşÿÿÿÿ8¯àë¼…-
+Jsquid:IndentationCheck!"!Make this line start at column 7.(¦åÈ8¯àë¼…-
+Jsquid:IndentationCheck&"!Make this line start at column 7.(¦™ß²8¯àë¼…-
+<squid:S1451"&Add or update the header of this file.8¯àë¼…-
+u"squid:LeftCurlyBraceStartLineCheck	"AMove this left curly brace to the beginning of next line of code.(Éé8¯àë¼…-
+v"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(½ÿÀ‡8¯àë¼…-
+{"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(âöÈùüÿÿÿÿ8¯àë¼…-
+{"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ÆÕ÷öıÿÿÿÿ8¯àë¼…-
+{"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ˆ‰ºòùÿÿÿÿ8¯àë¼…-
+{"squid:LeftCurlyBraceStartLineCheck "AMove this left curly brace to the beginning of next line of code.(Æ¥øÿÿÿÿ8¯àë¼…-
+{"squid:LeftCurlyBraceStartLineCheck%"AMove this left curly brace to the beginning of next line of code.(‘îÉàıÿÿÿÿ8¯àë¼…-
+5
+squid:S923%"Do not use varargs.(‘îÉàıÿÿÿÿ8¯àë¼…-
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆ‰ºòùÿÿÿÿ8¯àë¼…-

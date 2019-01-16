@@ -1,0 +1,16 @@
+
+Osquid:IndentationCheck"!Make this line start at column 3.(—ÛÑÔşÿÿÿÿ8­ˆ½…-
+Osquid:IndentationCheck"!Make this line start at column 5.(î±¨Ôøÿÿÿÿ8­ˆ½…-
+Psquid:IndentationCheck""Make this line start at column 11.(Ğ¸™áúÿÿÿÿ8®ˆ½…-
+Psquid:IndentationCheck""Make this line start at column 13.(©âÈƒùÿÿÿÿ8®ˆ½…-
+Psquid:IndentationCheck""Make this line start at column 15.(ïÈ«—ıÿÿÿÿ8®ˆ½…-
+Psquid:IndentationCheck ""Make this line start at column 15.(‡Şé´şÿÿÿÿ8®ˆ½…-
+<squid:S1451"&Add or update the header of this file.8®ˆ½…-
+v"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Ô¬¼—8®ˆ½…-
+v"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(ßìê¯8®ˆ½…-
+{"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Êœüûÿÿÿÿ8®ˆ½…-
+{"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Ğ¸™áúÿÿÿÿ8®ˆ½…-
+v"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(û½˜8®ˆ½…-
+v"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(å¥‡8®ˆ½…-
+v2squid:RightCurlyBraceDifferentLineAsNextBlockCheck"1Move this "else" keyword to a new dedicated line.(å¥‡8®ˆ½…-
+Xsquid:S1258":Add a constructor to the class, or provide default values.(Ô¬¼—8®ˆ½…-

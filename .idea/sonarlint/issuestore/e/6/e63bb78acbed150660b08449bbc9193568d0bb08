@@ -1,0 +1,28 @@
+
+Wsquid:S2974"4Make this class "final" or add a public constructor.(˜¼³ãıÿÿÿÿ8ÉÁˆ½…-
+Osquid:IndentationCheck"!Make this line start at column 3.(˜¼³ãıÿÿÿÿ8ÉÁˆ½…-
+Osquid:IndentationCheck"!Make this line start at column 5.(‡µó¥ÿÿÿÿÿ8ÉÁˆ½…-
+Osquid:IndentationCheck"!Make this line start at column 7.(Ÿ‚–™ıÿÿÿÿ8ÉÁˆ½…-
+Osquid:IndentationCheck"!Make this line start at column 5.(¾²ÒÕşÿÿÿÿ8ÉÁˆ½…-
+Jsquid:IndentationCheck!"!Make this line start at column 5.(õ­À„8ÉÁˆ½…-
+Osquid:IndentationCheck'"!Make this line start at column 5.(ÏÛÊßøÿÿÿÿ8ÉÁˆ½…-
+Osquid:IndentationCheck("!Make this line start at column 7.(›à„¡øÿÿÿÿ8ÉÁˆ½…-
+Osquid:IndentationCheck,"!Make this line start at column 7.(í‰Æ¼ùÿÿÿÿ8ÉÁˆ½…-
+Jsquid:IndentationCheck1"!Make this line start at column 5.(è‡Ä‘8ÉÁˆ½…-
+Osquid:IndentationCheck9"!Make this line start at column 5.(ı¸íÿÿÿÿÿ8ÉÁˆ½…-
+<squid:S1451"&Add or update the header of this file.8ÉÁˆ½…-
+{"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(Ù¹¦Úùÿÿÿÿ8ÉÁˆ½…-
+{"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(˜¼³ãıÿÿÿÿ8ÉÁˆ½…-
+{"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(è­çùÿÿÿÿ8ÉÁˆ½…-
+{"squid:LeftCurlyBraceStartLineCheck"AMove this left curly brace to the beginning of next line of code.(¾²ÒÕşÿÿÿÿ8ÉÁˆ½…-
+{"squid:LeftCurlyBraceStartLineCheck "AMove this left curly brace to the beginning of next line of code.(–¸ş¥üÿÿÿÿ8ÉÁˆ½…-
+{"squid:LeftCurlyBraceStartLineCheck&"AMove this left curly brace to the beginning of next line of code.(àÜ¦Óşÿÿÿÿ8ÉÁˆ½…-
+{"squid:LeftCurlyBraceStartLineCheck'"AMove this left curly brace to the beginning of next line of code.(ÏÛÊßøÿÿÿÿ8ÉÁˆ½…-
+v"squid:LeftCurlyBraceStartLineCheck*"AMove this left curly brace to the beginning of next line of code.(å¥‡8ÉÁˆ½…-
+{"squid:LeftCurlyBraceStartLineCheck0"AMove this left curly brace to the beginning of next line of code.(àµ†úÿÿÿÿ8ÉÁˆ½…-
+{"squid:LeftCurlyBraceStartLineCheck8"AMove this left curly brace to the beginning of next line of code.(Õ»­ëüÿÿÿÿ8ÉÁˆ½…-
+v2squid:RightCurlyBraceDifferentLineAsNextBlockCheck*"1Move this "else" keyword to a new dedicated line.(å¥‡8ÉÁˆ½…-
+6squid:S23841"Store a copy of "words".(è‡Ä‘8ÉÁˆ½…-
+csquid:TrailingCommentCheck"6Move this trailing comment on the previous empty line.(şªÀ±8ÉÁˆ½…-
+8squid:S001219"Missing curly brace.(ı¸íÿÿÿÿÿ8ÉÁˆ½…-
+3squid:S00121;"Missing curly brace.(«€³ï8ÉÁˆ½…-
